@@ -80,7 +80,7 @@ footer {
         text-align: center;
     }
     .sns-list {
-        margin-left: auto;
+        justify-content: flex-end;
         margin-bottom: 20px;
     }
 
